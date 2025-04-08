@@ -1,3 +1,4 @@
+// redo for summer
 function display_scoreboard(scoreboard){
   $("#teams").empty();
   $.each(scoreboard, function(index, team){
